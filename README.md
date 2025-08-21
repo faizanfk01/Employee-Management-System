@@ -41,18 +41,18 @@ update, delete, and export** to CSV --- all from a user-friendly
 
 1.  **Clone this repository:**
 
-    ``` bash
-    https://github.com/faizanfk01/Employee-Management-System.git
-    cd Employee-Management-System
-    ```
+        https://github.com/faizanfk01/Employee-Management-System.git
+    
+3. Navigate to the project folder:
 
-2.  **Run the program:**
+        cd Employee-Management-System
 
-    ``` bash
-    employee_management.py
-    ```
+5.  **Run the program:**
 
-3.  **Use the menu options to manage employees:**
+        python employee_management.py
+
+
+6.  **Use the menu options to manage employees:**
 
         1️⃣ Add Employee
         2️⃣ View All Employees
