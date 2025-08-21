@@ -42,7 +42,7 @@ update, delete, and export** to CSV --- all from a user-friendly
 1.  **Clone this repository:**
 
     ``` bash
-    git clone https://github.com/faizanfk01/Employee-Management-System.git
+    https://github.com/faizanfk01/Employee-Management-System.git
     cd Employee-Management-System
     ```
 
